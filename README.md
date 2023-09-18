@@ -11,3 +11,4 @@
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina+
 
 ## Modelagem e diagramação da representação em UML:
+![imagem](https://raw.githubusercontent.com/alissonlimabr/DiagramaUML-Iphone-DesafioJava/master/src/alissonlimabr/DiagramaUML/diagrama_uml_Iphone.drawio.png?token=GHSAT0AAAAAACG2MGOHUMO5GOLAF3Z5H5XYZIHZ7JQ)
